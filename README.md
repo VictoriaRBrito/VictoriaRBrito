@@ -3,4 +3,4 @@
   </p>
 <br/>
 
-Hello there, I'm Victoria Brito, passionete about computational intelligence. Currently finishing my Software Engineer graduation.
+Hello there, I'm Victoria Brito, passionete about computational intelligence. Recent graduate in Software Engineering.
